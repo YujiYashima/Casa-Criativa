@@ -54,6 +54,10 @@ npm install
 ```bash
 npm run dev
 ```
-<img src="public/Menu - Casa Criativa.PNG"/>
-<img src="public/Pagina com Ideias.PNG"/>
-<img src="public/Formulario.PNG"/>
+and write in your browser navigation bar "localhost:3000"<br/>
+
+## Screenshot of Page
+
+<img src="public/Menu - Casa Criativa.PNG"/><br/>
+<img src="public/Pagina com Ideias.PNG"/><br/>
+<img src="public/Formulario.PNG"/><br/>
