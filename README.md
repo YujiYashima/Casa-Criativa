@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Casa Criativa" src="public/CasaCriativalogo.png"/>
+  <img alt="Casa Criativa" src="public/casa-criativa.png"/>
     <br>
 </h1>
 
@@ -17,8 +17,6 @@
 <p align="center">
   <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#page_facing_up-license">Licence</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
 </p>
 <br><br>
 
