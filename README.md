@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br><br>
 
@@ -54,6 +54,6 @@ npm install
 ```bash
 npm run dev
 ```
-<img src="public/Print_1.PNG"/>
-<img src="public/Print_2.PNG"/>
-<img src="public/Print_3.PNG"/>
+<img src="public/Menu - Casa Criativa.PNG"/>
+<img src="public/Pagina com Ideias.PNG"/>
+<img src="public/Formulario.PNG"/>
