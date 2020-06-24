@@ -8,13 +8,6 @@
 </h4>
 
 <p align="center">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Evoney/CasaCriativa?color=FF5E84">
-<img alt="Made by Evoney Mendonça" src="https://img.shields.io/badge/made%20by-Evoney-%20?color=FF5E84">
-<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Evoney/CasaCriativa?color=FF5E84">
- <img alt="GitHub license" src="https://img.shields.io/github/license/Evoney/CasaCriativa?color=FF5E84">
-</p> 
-
-<p align="center">
   <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;
 </p>
