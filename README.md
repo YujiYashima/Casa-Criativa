@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Shot">ScreeShot Page</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br><br>
 
@@ -49,7 +50,7 @@ npm run dev
 ```
 and write in your browser navigation bar "localhost:3000"<br/>
 
-## Screenshot of Page
+<h2 id="Shot">:camera: Screenshot of Page</h2>
 
 <img src="public/Menu - Casa Criativa.PNG"/><br/>
 <img src="public/Pagina com Ideias.PNG"/><br/>
